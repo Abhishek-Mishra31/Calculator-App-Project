@@ -1,0 +1,45 @@
+body {
+    font-family: math;
+    background: url("https://images.unsplash.com/photo-1531685250784-7569952593d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80");
+}
+
+.container {
+    margin: auto;
+    height: 273px;
+    width: 353px;
+    margin-top: 100px;
+    border: 3px solid #e91e63;
+    border-radius: 14px;
+}
+
+
+.input-box {
+    height: 62px;
+    width: 347px;
+    border: 3px solid #af19cb;
+}
+
+
+#input {
+    height: 50px;
+    width: 252px;
+    border-radius: 15px;
+    border: 3px solid black;
+}
+
+
+
+.btn {
+    font-size: 24px;
+    cursor: pointer;
+    height: 51px;
+    width: 85px;
+}
+
+#bt {
+    font-size: 30px;
+    color: #795548;
+    height: 59px;
+    width: 83px;
+    float: right;
+}
